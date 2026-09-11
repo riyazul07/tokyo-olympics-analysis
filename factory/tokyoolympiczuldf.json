@@ -1,0 +1,15 @@
+{
+	"name": "tokyoolympiczuldf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a72695f0-5bce-4906-827a-847c7c2df615",
+		"tenantId": "44467e6f-462c-4ea2-823f-7800de5434e3"
+	}
+}
